@@ -67,7 +67,7 @@ class Wallet extends Component {
   slikaqr = {
     height: "250px",
     width: "250px",
-    //marginLeft: "-30px",
+    //      marginLeft: "-30px",
   };
 
   glavni = {
